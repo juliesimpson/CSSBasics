@@ -1,0 +1,23 @@
+/*this styles everything within the css-classes class*/
+
+body {
+	background-color: #FAEBD7;
+}
+
+img {
+	height: 300px;
+	width: 400px;
+}
+
+.css-classes {
+	background-color: red;
+}
+
+.css-classes p{
+	font-size: 16px;
+	color: green;
+}
+
+.css-classes li{
+	color: navy;
+}
